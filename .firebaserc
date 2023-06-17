@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "test-two-fbf48": {
+      "hosting": {
+        "test-two": [
+          "test-two-fbf48"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "test-two-fbf48"
+  }
+}
